@@ -1,5 +1,8 @@
 0.0.0.0 			wlbetboo.adsrv.eacdn.com
 0.0.0.0 			www.adbetnetwork.com
+0.0.0.0       adservice.google.com.tr
+0.0.0.0       match.adsrvr.org
+0.0.0.0       securepubads.g.doubleclick.net
 #10.34.0.180         test.aygazotogazfiyatlandirma.aygaz.com.tr
 #10.34.0.180         test.aygazotogazfiyatlandirmaapi.aygaz.com.tr
 #81.8.117.43         iystest.aygaz.com.tr
