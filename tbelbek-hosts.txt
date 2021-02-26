@@ -4,12 +4,3 @@
 0.0.0.0 match.adsrvr.org
 0.0.0.0 securepubads.g.doubleclick.net
 127.0.0.1 (\.|^)hurriyet\.com\.tr$
-#10.34.0.180 test.aygazotogazfiyatlandirma.aygaz.com.tr
-#10.34.0.180 test.aygazotogazfiyatlandirmaapi.aygaz.com.tr
-#81.8.117.43 iystest.aygaz.com.tr
-#81.8.117.43 iysadmintest.aygaz.com.tr 
-#81.8.117.43 iysfr.aygaz.com.tr
-#81.8.117.43 proxyauth.aygaz.com.tr
-#81.8.117.43 coreapi.aygaz.com.tr
-#81.8.117.43 mobilsatisapi.aygaz.com.tr
-#10.36.0.55 adfs.aygaz.com.tr
