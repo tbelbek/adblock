@@ -5,7 +5,6 @@
 0.0.0.0 adservice.google.com.tr
 0.0.0.0 match.adsrvr.org
 0.0.0.0 securepubads.g.doubleclick.net
-127.0.0.1 (\.|^)hurriyet\.com\.tr$
 
 ! Hosts section END
 
