@@ -4,3 +4,14 @@
 0.0.0.0 match.adsrvr.org
 0.0.0.0 securepubads.g.doubleclick.net
 127.0.0.1 (\.|^)hurriyet\.com\.tr$
+@@||p8zh.adj.st^$important
+@@teams
+@@windowsupdate
+@@skype
+@@microsoft.com
+@@||login.microsoftonline.com^$important
+@@||login.live.com^$important
+@@||client.wns.windows.com^$important
+@@||logincdn.msauth.net^$important
+@@fonts^$important
+
