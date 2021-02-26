@@ -5,10 +5,10 @@
 0.0.0.0 securepubads.g.doubleclick.net
 127.0.0.1 (\.|^)hurriyet\.com\.tr$
 @@||p8zh.adj.st^$important
-@@teams
-@@windowsupdate
-@@skype
-@@microsoft.com
+@@teams^$important
+@@windowsupdate^$important
+@@skype^$important
+@@microsoft.com^$important
 @@||login.microsoftonline.com^$important
 @@||login.live.com^$important
 @@||client.wns.windows.com^$important
