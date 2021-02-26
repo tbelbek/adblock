@@ -1,9 +1,16 @@
+! Hosts section START
+
 0.0.0.0 wlbetboo.adsrv.eacdn.com
 0.0.0.0 www.adbetnetwork.com
 0.0.0.0 adservice.google.com.tr
 0.0.0.0 match.adsrvr.org
 0.0.0.0 securepubads.g.doubleclick.net
 127.0.0.1 (\.|^)hurriyet\.com\.tr$
+
+! Hosts section END
+
+! Custom rules section START
+
 @@||p8zh.adj.st^$important
 @@teams^$important
 @@windowsupdate^$important
@@ -14,4 +21,6 @@
 @@||client.wns.windows.com^$important
 @@||logincdn.msauth.net^$important
 @@fonts^$important
+
+! Custom rules section END
 
