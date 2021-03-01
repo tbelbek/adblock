@@ -21,6 +21,7 @@
 @@||logincdn.msauth.net^$important
 @@fonts^$important
 @@||fonts.gstatic.com^$important
+@@||selcuksportscdn.org^$important
 
 ! Custom rules section END
 
