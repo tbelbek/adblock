@@ -22,6 +22,9 @@
 @@fonts^$important
 @@||fonts.gstatic.com^$important
 @@||selcuksportscdn.org^$important
+@@||sentry.postmanlabs.com^$important
+@@||sentry-app.postmanlabs.com^$important
+
 
 ! Custom rules section END
 
