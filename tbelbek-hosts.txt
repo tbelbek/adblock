@@ -24,7 +24,7 @@
 @@||selcuksportscdn.org^$important
 @@||sentry.postmanlabs.com^$important
 @@||sentry-app.postmanlabs.com^$important
-||www.selcuksportshd1.com^$important
+||selcuksportshd1.com^$important
 
 ! Custom rules section END
 
