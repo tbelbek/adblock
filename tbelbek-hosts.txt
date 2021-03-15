@@ -11,7 +11,7 @@
 ! Custom rules section START
 
 @@||p8zh.adj.st^$important
-@@selcuksports^$important
+#@@selcuksports^$important
 @@teams^$important
 @@windowsupdate^$important
 @@skype^$important
